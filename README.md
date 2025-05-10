@@ -91,7 +91,6 @@ plt.show()
 # Output Waveform
 
 ![image](https://github.com/user-attachments/assets/de78980d-6fdc-46fb-9c6b-1f12b1b0bfc2)
-![image](https://github.com/user-attachments/assets/c452b5e6-2359-46cc-bd5a-708a55b1eb93)
 
 
 # Results
